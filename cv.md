@@ -56,3 +56,16 @@ _05.2015 – 02.2017_
  Operations Specialist at Belagroprombank OJSC
 
  * was engaged in operational and cash work, active sale of banking products, implementation of completed plans, preparation of reports, etc
+
+ ### **Education**
+
+ 2006 – 2011
+
+ F. Skorina Gomel State University (Department of Economics, Finance and Credit, Banking)
+
+ ### **Hobbies**
+
+ * interior design, restoration of old things
+ * interest in the psychology of people, the definition of cause-and-effect relationships
+ * yoga classes
+ * board games
