@@ -60,7 +60,7 @@ _05.2015 – 02.2017_
  ### **Education**
 
  2006 – 2011
-
+ 
  F. Skorina Gomel State University (Department of Economics, Finance and Credit, Banking)
 
  ### **Hobbies**
