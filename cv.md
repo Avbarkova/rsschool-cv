@@ -1,32 +1,45 @@
 ## **NASTASSIA BARKOVA**
-e-mail: avbarkova@gmail.com
-
-+375-29-231-73-36
-
-### **Goal:** job application
+_Future front-end developer_
 
 ### **About me**
-* sociable, I easily make new acquaintances
-* responsible
-* learn new information quickly
-* can analyze
-* mathematical thinking
-* stress-resistant
+About myself, I can say with confidence that I am characterized by constancy and perseverance.
+
+I have no experience in IT, but while working at the bank, I learned to work from scratch in four completely different areas of activity. In this I was helped by my ability to quickly assimilate new information, analytical mindset and purposefulness.
+
+I learned to work in a team, with a large amount of information in the multitasking mode and to approach the set goals responsibly. I tend to be attentive to details and rational thinking.
+
+Today I realize that the growth opportunities and perspectives in my profession don't match my goals. So I decided to try my hand at front-end development. I want to get new knowledge, to show my creativity in new projects and to satisfy the visual inside of me.
+
+### **Contacts**
+* e-mail: avbarkova@gmail.com
+* discord: Avbarkova#3768
+* telegram: @abv2021
+
+### **Languages**
+* Russian (fluent)
+* English (pre-intermediate)
 
 ### **Skills**
-* organizational
-* work in a team & with a large audience
-* negotiation, business correspondence
-* work with a large amount of information in multitasking mode
-* conclusion of contracts
-
-### **Technical skills**
-* Microsoft Office
+* HTML,CSS
+* JavaScript Basics
+* Git, Github
+* VS Code
 * Corel Draw
-* work with office equipment
-* driver's license category B (there is a private car)
 
-### **Work experience**
+### **Courses**
+* HTML Academy New year challenge
+* Подготовительный курс «JavaScript/Front-end. Stage 0»
+
+### **Projects**
+* CV
+
+### **Education**
+
+ * 2006 – 2011
+ 
+ F. Skorina Gomel State University (Department of Economics, Finance and Credit, Banking)
+
+### **Experience**
 _02.2017 - present_
 
 Chief specialist of the department for ensuring the activities of the bank of the regional directorate for the Gomel region of Belagroprombank OJSC
@@ -57,16 +70,6 @@ _05.2015 – 02.2017_
 
  * was engaged in operational and cash work, active sale of banking products, implementation of completed plans, preparation of reports, etc
 
-### **Education**
 
- 2006 – 2011
-
- F. Skorina Gomel State University (Department of Economics, Finance and Credit, Banking)
  
- ### **Hobbies**
-
- * interior design, restoration of old things
- * interest in the psychology of people, the definition of cause-and-effect relationships
- * yoga classes
- * board games
-
+ 
