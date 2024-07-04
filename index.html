@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="header__nav">
+        <ul class="nav__menu">
+          <li class="menu__link">
+            <a href="#about" class="menu__link_elem">about me</a>
+          </li>
+          <li class="menu__link">
+            <a href="#contacts" class="menu__link_elem">contacts</a>
+          </li>
+          <li class="menu__link">
+            <a href="#languages" class="menu__link_elem">languages</a>
+          </li>
+          <li class="menu__link">
+            <a href="#courses" class="menu__link_elem">courses</a>
+          </li>
+          <li class="menu__link">
+            <a href="#projects" class="menu__link_elem">projects</a>
+          </li>
+          <li class="menu__link">
+            <a href="#skills" class="menu__link_elem">skills</a>
+          </li>
+          <li class="menu__link">
+            <a href="#code" class="menu__link_elem">code</a>
+          </li>
+          <li class="menu__link">
+            <a href="#education" class="menu__link_elem">education</a>
+          </li>
+          <li class="menu__link">
+            <a href="#experience" class="menu__link_elem">experience</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="section-first">
+      <div class="container section-first__wrapper">
+        <div class="photo-contacts-languages">
+          <img class="photo" src="./assets/img/photo.png" alt="my-photo">
+          <div class="contacts">
+            <h2 id="contacts">Contacts</h2>
+            <ul>
+              <li>discord: @Avbarkova</li>
+            </ul>
+          </div>
+          <div class="languages">
+            <h2 id="languages">Languages</h2>
+            <ul>
+              <li>Russian (native)</li>
+              <li>English (pre-intermediate)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="name-about">
+          <div class="name">
+            <h1 id="about">Nastassia Barkova</h1>
+            <h3>Future front-end developer</h3>
+          </div>
+          <div class="about">
+            <h2>About me</h2>
+            <div class="about__content">
+              <p>About myself, I can say with confidence that I am characterized by constancy and perseverance.</p>
+              <p>I have no experience in IT, but while working at the bank, I learned to work from scratch in four completely different areas of activity. In this I was helped by my ability to quickly assimilate new information, analytical mindset and purposefulness.</p>
+              <p>I learned to work in a team, with a large amount of information in the multitasking mode and to approach the set goals responsibly. I tend to be attentive to details and rational thinking.</p>
+              <p>Today I realize that the growth opportunities and perspectives in my profession don't match my goals. So I decided to try my hand at front-end development. I want to get new knowledge, to show my creativity in new projects and to satisfy the visual inside of me.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section-second">
+      <div class="container section-second__wrapper">
+        <div class="courses-projects">
+          <div class="courses">
+            <h2 id="courses">Courses</h2>
+            <ul>
+              <li>
+                <a href="https://rs.school/js-stage0/" class="a_section-second">Подготовительный курс «JavaScript/Front-end. Stage 0»</a>
+              </li>
+            </ul>
+          </div>
+          <div class="projects">
+            <h2 id="projects">Projects</h2>
+            <ul>
+              <li>
+                <a href="https://Avbarkova.github.io/rsschool-cv/" class="a_section-second">CV</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="skills">
+          <h2 id="skills">Skills</h2>
+          <ul>
+            <li>HTML,CSS</li>
+            <li>JavaScript Basics</li>
+            <li>Git, Github</li>
+            <li>VS Code</li>
+            <li>Figma</li>
+          </ul>
+        </div>
+        <div class="code-example">
+          <h2 id="code">Code example</h2>
+          <pre>
+const assert = require("chai").assert;
+  describe("Multiply", () => {
+      it("fixed tests", () => {
+        assert.strictEqual(multiply(1,1), 1);
+        assert.strictEqual(multiply(2,1), 2);
+        assert.strictEqual(multiply(2,2), 4);
+        assert.strictEqual(multiply(3,5), 15);   
+      });
+  });  
+function multiply(a, b){
+  return a * b
+}</pre>
+        </div>
+      </div>
+    </section>
+    <section class="section-third">
+      <div class="container section-third__wrapper">
+        <div class="education">
+          <h2 id="education">Education</h2>
+          <ul>
+            <li>2006 - 2011: F.Skorina Gomel State University (Department of Economics, Finance and Credit, Banking)</li>
+          </ul>
+        </div>
+        <div class="experience">
+          <h2 id="experience">Experience</h2>
+          <ul>
+            <li>02.2017 - present: Chief specialist of the department for ensuring the activities of the bank of the regional directorate for the Gomel region of Belagroprombank OJSC</li>
+            <li>05.2015 - 02.2017: Advertising Specialist at OJSC Belagroprombank</li>
+            <li>09.2014 - 05.2015: Regional network development specialist at Belagroprombank OJSC</li>
+            <li>06.2011 - 09.2014: Operations Specialist at Belagroprombank OJSC</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="container footer__wrapper">
+        <a class="link_footer" href="https://github.com/Avbarkova">
+          <img src="assets/img/logo_github.png" alt="GitHub" height="50">
+        </a>
+        <p class="created">Created in 2024</p>
+        <a class="link_footer" href="https://rs.school/courses/javascript-ru">
+          <img src="assets/img/logo_rs.png" alt="rsschool" height="50">
+        </a>
+    </div>
+  </footer>
+</body>
+</html>
